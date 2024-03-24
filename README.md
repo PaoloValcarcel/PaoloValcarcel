@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi everyone 👋
 
 <!--
 **PaoloValcarcel/PaoloValcarcel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Paolo. I'm a MSc at Universidad de los Andes (Colombia). My research interests are focused on Applied Econometrics, Spatial Analysis, Urban Economics, Big Data, and Machine Learning.
+
+You can see my web page [here](https://paolovalcarcel.github.io/) :nerd_face:
+
+![](https://komarev.com/ghpvc/?PaoloValcarcel=your-github-username&label=PROFILE+VIEWS)
