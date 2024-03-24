@@ -18,4 +18,4 @@ My name is Paolo. I'm a MSc at Universidad de los Andes (Colombia). My research 
 
 You can see my web page [here](https://paolovalcarcel.github.io/) :nerd_face:
 
-![](https://komarev.com/ghpvc/?PaoloValcarcel=your-github-username&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=PaoloValcarcel&label=PROFILE+VIEWS)
